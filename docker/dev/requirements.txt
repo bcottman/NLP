@@ -25,4 +25,4 @@ nltk
 spacy-transformers
 spacymoji
 pdfminer
-urllib3==1.25.10
+urllib3==1.26.5
